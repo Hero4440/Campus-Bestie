@@ -1,5 +1,5 @@
 ---
-name: asu-campus-scout
+name: campus-bestie
 description: Search ASU classes, campus events, faculty and news from a text. Use when the student asks about ASU class seats, course schedules, professors, campus events or university news.
 ---
 

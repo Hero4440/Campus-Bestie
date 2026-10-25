@@ -1,5 +1,7 @@
 # Campus Bestie
 
+*Your bestie that never sleeps.*
+
 A Cubbie Skill that searches all of ASU from one iMessage. Classes with live seat counts, campus events, faculty directory, and university news.
 
 Built for [Cubbie Hackathon 2026](https://hackathon.cubbie.ai/) — Track 1.
